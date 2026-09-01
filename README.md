@@ -214,16 +214,45 @@ I am continuously working on projects to improve my development, programming, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandanasreej&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandanasreej&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<a href="https://github.com/Chandanasreej">
+  <img src="https://img.shields.io/github/followers/Chandanasreej?label=Followers&style=for-the-badge&logo=github&color=181717"/>
+</a>
+
+<a href="https://github.com/Chandanasreej?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Repositories-Explore-blue?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/Chandanasreej">
+  <img src="https://img.shields.io/github/last-commit/Chandanasreej/Chandanasreej?label=Last%20Profile%20Update&style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/github/commit-activity/y/Chandanasreej/Chandanasreej?label=Yearly%20Activity&style=for-the-badge&logo=github&color=6f42c1"/>
+
+<img src="https://img.shields.io/github/languages/count/Chandanasreej/Chandanasreej?label=Languages&style=for-the-badge&logo=github&color=20c997"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Streak & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chandanasreej&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://img.shields.io/github/commit-activity/m/Chandanasreej/Chandanasreej?label=Monthly%20Commits&style=for-the-badge&logo=github&color=ff6b6b"/>
+
+<img src="https://img.shields.io/github/commit-activity/y/Chandanasreej/Chandanasreej?label=Yearly%20Commits&style=for-the-badge&logo=github&color=ff922b"/>
+
+</p>
+
+<p align="center">
+
+🔥 <b>Keep coding consistently and build your GitHub contribution streak!</b> 🔥
+
 </p>
 
 ---
@@ -258,17 +287,17 @@ Every project is an opportunity to learn something new, improve my skills, and b
 
 <p align="center">
 
-📚 **Learn**  
-⬇️  
-💻 **Practice**  
-⬇️  
-🚀 **Build**  
-⬇️  
-🐛 **Debug**  
-⬇️  
-✨ **Improve**  
-⬇️  
-🔁 **Repeat**
+📚 <b>Learn</b>
+&nbsp; → &nbsp;
+💻 <b>Practice</b>
+&nbsp; → &nbsp;
+🚀 <b>Build</b>
+&nbsp; → &nbsp;
+🐛 <b>Debug</b>
+&nbsp; → &nbsp;
+✨ <b>Improve</b>
+&nbsp; → &nbsp;
+🔁 <b>Repeat</b>
 
 </p>
 
