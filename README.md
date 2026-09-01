@@ -3,25 +3,31 @@
 ### 💻 Computer Science Engineer | Full Stack Developer | Python Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Computer+Science+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%8C%90;Python+Enthusiast+%F0%9F%90%8D;Always+Learning%2C+Building+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Computer+Science+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%8C%90;Python+Enthusiast+%F0%9F%90%8D;Always+Learning%2C+Building+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chandanasreej&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a Computer Science Engineering graduate with internship and hands-on project experience. I am passionate about software development, problem-solving, learning new technologies, and building practical applications.
+I am a Computer Science Engineering graduate with hands-on experience in software development through internships and projects. I enjoy learning new technologies, solving problems, building applications, and continuously improving my technical skills.
 
 - 🎓 Computer Science & Engineering Graduate
 - 💻 Interested in Full Stack Web Development
 - 🐍 Passionate about Python and programming
 - 🌐 Interested in Frontend & Backend Development
+- ⚛️ Learning and working with React.js
+- 🟢 Exploring Node.js and REST APIs
+- 🗄️ Interested in SQL and Database Management
 - 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🗄️ Interested in SQL, databases, and REST APIs
-- 🧠 Improving my problem-solving skills
-- 🌱 Continuously learning and adapting to new technologies
-- 🤝 Open to collaboration and new opportunities
-- 🚀 Passionate about building practical software solutions
+- 🧠 Improving my Data Structures & Algorithms skills
+- 🌱 Continuously learning new technologies
+- 🚀 Passionate about building real-world applications
+- 🤝 Open to learning, collaboration, and new opportunities
 
 ---
 
@@ -33,6 +39,7 @@ I am a Computer Science Engineering graduate with internship and hands-on projec
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
 ### 🌐 Frontend Development
@@ -48,25 +55,34 @@ I am a Computer Science Engineering graduate with internship and hands-on projec
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
 </p>
 
 ### 🗄️ Database
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### 🤖 AI & Development Tools
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
+### 🤖 AI & Productivity
 
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F61?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -75,11 +91,13 @@ I am a Computer Science Engineering graduate with internship and hands-on projec
 
 - 🐍 Strengthening my Python programming skills
 - 🌐 Improving Full Stack Development skills
+- ⚛️ Building projects using React.js
+- 🟢 Exploring Node.js and backend development
+- 🔗 Working with REST APIs
+- 🗄️ Improving SQL and database skills
 - 🧠 Practicing Data Structures & Algorithms
-- 🗄️ Improving SQL and Database skills
-- 🔗 Learning and working with REST APIs
-- 💻 Building practical software projects
 - 🤖 Exploring Artificial Intelligence and Machine Learning
+- 💻 Building practical software projects
 - 🎯 Preparing for Software Developer opportunities
 
 ---
@@ -92,8 +110,9 @@ I am a Computer Science Engineering graduate with internship and hands-on projec
   <img src="https://img.shields.io/badge/Web%20Development-E34F26?style=flat-square"/>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=flat-square"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square"/>
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-239120?style=flat-square"/>
@@ -111,8 +130,8 @@ I am continuously working on projects to improve my development, programming, an
 **Python • TensorFlow • OpenCV • gTTS**
 
 - Built a CNN model to recognize handwritten digits using the MNIST dataset.
-- Integrated OpenCV for digit input.
-- Added gTTS audio feedback to enhance accessibility for visually impaired users.
+- Integrated OpenCV for handwritten digit input.
+- Added gTTS audio feedback for improved accessibility.
 - Worked on real-time handwritten digit recognition.
 
 ---
@@ -121,54 +140,58 @@ I am continuously working on projects to improve my development, programming, an
 
 **Python • SVM • GNN • FastAPI**
 
-- Designed an intelligent system to detect fraudulent activities.
-- Focused on identifying fake accounts, fake reviews, and fraudulent transactions.
-- Applied Machine Learning and Deep Learning models.
-- Worked on an admin dashboard for fraud visualization and quick action.
+- Developed an intelligent system focused on detecting fraudulent activities.
+- Worked on detecting fake accounts, fake reviews, and fraudulent transactions.
+- Applied Machine Learning and Deep Learning concepts.
+- Designed functionality for fraud visualization and administrative action.
 
 ---
 
 ### 🗺️ Landscape Explorer
 
-**React.js • OpenLayers • REST API**
+**React.js • OpenLayers • Django REST API • PostgreSQL**
 
 - Developed and enhanced the frontend of a geospatial web application.
-- Used React.js and OpenLayers to create interactive map features.
-- Integrated REST APIs to fetch and display geospatial data.
-- Improved the user experience and interactive map functionality.
+- Used React.js and OpenLayers for interactive maps.
+- Integrated REST APIs for geospatial data.
+- Worked with Django REST APIs and PostgreSQL.
+- Improved interactive map features and user experience.
 
 ---
 
 ### 🌸 Blossom Scents – Perfume Shop
 
-**React.js • Node.js • MongoDB**
+**React.js • Node.js • JavaScript • MongoDB**
 
-- Developed a full-stack e-commerce web application for perfume product management.
-- Designed a responsive user interface.
-- Implemented CRUD operations for product management.
-- Used MongoDB for efficient product storage and retrieval.
+- Developed a full-stack e-commerce application for a perfume shop.
+- Designed a responsive and user-friendly interface.
+- Implemented product management functionality.
+- Worked with backend APIs and database integration.
+- Focused on creating a clean and attractive shopping experience.
 
 ---
 
 ## 💼 Internship Experience
 
-### 👩‍💻 Developer Intern — RCTS, IIT Delhi
+### 👩‍💻 Developer Intern — RCTS, IIIT Hyderabad
 
-**PACT Fellowship Program | Jan 2026 – Apr 2026**
+**PACT Fellowship Program**
 
-- Worked on frontend development and API integration.
-- Worked on projects provided by IIT Delhi.
-- Gained hands-on experience in software development.
-- Contributed to projects in a collaborative environment.
+- Worked on software development projects.
+- Contributed to frontend development and API integration.
+- Worked with React.js and geospatial technologies.
+- Gained hands-on experience with real-world development practices.
+- Worked in a collaborative development environment.
+
+---
 
 ### 👩‍💻 Full Stack Web Development Intern — Prinston Smart Engineers
 
-**Jan 2026 – May 2026**
-
-- Developed responsive web applications using HTML, CSS, JavaScript, React.js, and Node.js.
+- Developed responsive web applications.
+- Worked with HTML, CSS, JavaScript, React.js, and Node.js.
 - Worked on frontend development and backend integration.
-- Worked on API implementation.
-- Participated in testing, debugging, and deployment.
+- Worked with APIs and application functionality.
+- Participated in testing, debugging, and improving applications.
 
 ---
 
@@ -191,8 +214,8 @@ I am continuously working on projects to improve my development, programming, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandanasreeji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandanasreeji&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandanasreej&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandanasreej&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -200,7 +223,7 @@ I am continuously working on projects to improve my development, programming, an
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chandanasreeji&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Chandanasreej&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -217,6 +240,7 @@ My goal is to use GitHub consistently to:
 - 🤝 Contribute to development projects
 - 📂 Maintain clean and professional repositories
 - 🌱 Track my growth as a developer
+- ⭐ Build a strong professional portfolio
 
 ---
 
@@ -234,9 +258,32 @@ Every project is an opportunity to learn something new, improve my skills, and b
 
 <p align="center">
 
-**📚 Learn** → **💻 Practice** → **🚀 Build** → **🐛 Debug** → **✨ Improve** → **🔁 Repeat**
+📚 **Learn**  
+⬇️  
+💻 **Practice**  
+⬇️  
+🚀 **Build**  
+⬇️  
+🐛 **Debug**  
+⬇️  
+✨ **Improve**  
+⬇️  
+🔁 **Repeat**
 
 </p>
+
+---
+
+## 🎯 My Goals
+
+- 💻 Become a skilled Full Stack Developer
+- 🐍 Strengthen my Python programming skills
+- 🧠 Improve Data Structures & Algorithms
+- 🌐 Build scalable and user-friendly applications
+- 🤖 Continue exploring AI & Machine Learning
+- 📚 Keep learning new technologies
+- 🚀 Build and publish meaningful projects
+- 💼 Start my professional journey in software development
 
 ---
 
@@ -244,11 +291,11 @@ Every project is an opportunity to learn something new, improve my skills, and b
 
 <p align="center">
 
-<a href="https://linkedin.com/in/chandanasreej">
+<a href="https://www.linkedin.com/in/chandanasreej">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Chandanasreeji">
+<a href="https://github.com/Chandanasreej">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -259,7 +306,11 @@ Every project is an opportunity to learn something new, improve my skills, and b
 </p>
 
 <p align="center">
-  💼 Open to Software Development Opportunities
+  💼 <b>Open to Software Development Opportunities</b>
+</p>
+
+<p align="center">
+  🤝 Always happy to connect, learn, collaborate, and grow!
 </p>
 
 ---
@@ -274,10 +325,14 @@ Every project is an opportunity to learn something new, improve my skills, and b
 
 <p align="center">
 
-**🚀 Keep Learning | 💻 Keep Building | 🌱 Keep Growing**
+🚀 **Keep Learning** &nbsp; | &nbsp; 💻 **Keep Building** &nbsp; | &nbsp; 🌱 **Keep Growing**
 
 </p>
 
 <p align="center">
   <i>Every line of code is a step forward. 💙</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, feel free to explore my repositories!
 </p>
