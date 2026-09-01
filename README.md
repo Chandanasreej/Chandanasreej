@@ -1,16 +1,16 @@
 # Hi there, I'm Chandana Sree 👋✨
 
-### 💻 Computer Science Engineering Graduate | Full Stack Developer | Python Enthusiast
+### 💻 Computer Science Engineer | Full Stack Developer | Python Enthusiast
 
-> 🌱 Always Learning, Building & Growing
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chandanasreej&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a Computer Science Engineering graduate with hands-on experience in software
-development through internships and projects. I enjoy learning new technologies,
-solving problems, building applications, and continuously improving my technical skills.
+I am a Computer Science Engineering graduate with hands-on experience in software development through internships and projects. I enjoy learning new technologies, solving problems, building applications, and continuously improving my technical skills.
 
 - 🎓 Computer Science & Engineering Graduate
 - 💻 Interested in Full Stack Web Development
@@ -21,84 +21,108 @@ solving problems, building applications, and continuously improving my technical
 - 🗄️ Interested in SQL and Database Management
 - 🤖 Exploring Artificial Intelligence & Machine Learning
 - 🧠 Improving my Data Structures & Algorithms skills
-- 🌱 Continuously learning new technologies
 - 🚀 Passionate about building real-world applications
 - 🤝 Open to learning, collaboration, and new opportunities
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-### 🌐 Web Technologies
+### 🌐 Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 
-### 🔧 Backend & APIs
+### ⚙️ Backend Development
 
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
 
-### 🗄️ Databases
+### 🗄️ Database
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🤖 AI & Productivity Tools
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 ### 🧰 Tools & Technologies
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+### 🤖 AI & Productivity
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF69B4?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🚀 What I'm Currently Working On
+# 🚀 What I'm Currently Working On
 
 - 🐍 Strengthening my Python programming skills
-- 🌐 Improving my Full Stack Development skills
+- 🌐 Improving Full Stack Development skills
 - ⚛️ Building projects using React.js
 - 🟢 Exploring Node.js and backend development
 - 🔗 Working with REST APIs
-- 🗄️ Improving my SQL and database skills
+- 🗄️ Improving SQL and database skills
 - 🧠 Practicing Data Structures & Algorithms
-- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🤖 Exploring Artificial Intelligence and Machine Learning
 - 💻 Building software projects
 - 🎯 Preparing for Software Developer opportunities
 
 ---
 
-## 💡 Areas of Interest
+# 💜 Areas of Interest
 
-`Python` `Full Stack Development` `Web Development` `React.js`
-`Node.js` `REST APIs` `SQL` `Artificial Intelligence`
-`Machine Learning` `Data Structures & Algorithms` `Problem Solving`
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web%20Development-E34F26?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-F7931E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-1F4E79?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-6A5ACD?style=for-the-badge"/>
+</p>
 
 ---
 
 # 📂 Projects
 
-I continuously work on projects to improve my development, programming,
-and problem-solving skills.
+I am continuously working on projects to improve my development, programming, and problem-solving skills.
 
 ## 🔢 Handwritten Digit Recognition System
 
-**Technologies:** Python • TensorFlow • OpenCV • gTTS
+**Python • TensorFlow • OpenCV • gTTS**
 
 - Built a CNN model to recognize handwritten digits using the MNIST dataset.
 - Integrated OpenCV for handwritten digit input.
@@ -109,10 +133,10 @@ and problem-solving skills.
 
 ## 🛡️ Smart Commerce Fraud Detection System
 
-**Technologies:** Python • SVM • GNN • FastAPI
+**Python • SVM • GNN • FastAPI**
 
 - Designing an intelligent system focused on detecting fraudulent activities.
-- Working on detection of fake accounts, fake reviews, and fraudulent transactions.
+- Working on detecting fake accounts, fake reviews, and fraudulent transactions.
 - Applying Machine Learning and Deep Learning concepts.
 - Developing functionality for fraud visualization and administrative action.
 
@@ -120,25 +144,25 @@ and problem-solving skills.
 
 ## 🗺️ Landscape Explorer
 
-**Technologies:** React.js • OpenLayers • Django REST API • PostgreSQL
+**React.js • OpenLayers • Django REST API • PostgreSQL**
 
 - Developed and enhanced the frontend of a geospatial web application.
-- Used React.js and OpenLayers for interactive map features.
+- Used React.js and OpenLayers for interactive maps.
 - Integrated REST APIs to fetch and display geospatial data.
 - Worked with Django REST APIs and PostgreSQL.
-- Improved interactive map features and overall user experience.
+- Improved interactive map features and user experience.
 
 ---
 
 ## 🌸 Blossom Scents – Perfume Shop
 
-**Technologies:** React.js • Node.js • MongoDB
+**React.js • Node.js • JavaScript • MongoDB**
 
-- Developed a full-stack e-commerce web application for perfume product management.
+- Developed a full-stack e-commerce web application for a perfume shop.
 - Designed a responsive and user-friendly interface.
-- Implemented CRUD operations with MongoDB.
-- Worked on backend APIs and database integration.
-- Focused on creating a clean and attractive shopping experience.
+- Implemented product management functionality.
+- Implemented CRUD operations with MongoDB for product storage and retrieval.
+- Worked with backend APIs and database integration.
 
 ---
 
@@ -150,7 +174,7 @@ and problem-solving skills.
 
 - Worked on frontend development and API integration.
 - Worked on projects provided through the internship program.
-- Gained hands-on experience in real-world software development.
+- Gained hands-on experience with real-world software development.
 - Contributed to software development projects in a collaborative environment.
 
 ---
@@ -165,33 +189,36 @@ and problem-solving skills.
 
 ---
 
-# 🎓 Education
+# 📜 Certifications
 
-### B.E. — Computer Science & Engineering
-**Vemana Institute of Technology**
+<p>
+  <img src="https://img.shields.io/badge/NPTEL-Advanced%20Computer%20Networks-E67E22?style=for-the-badge"/>
+</p>
 
-**CGPA:** 8.66  
-**2022 – 2026**
+<p>
+  <img src="https://img.shields.io/badge/NPTEL-Artificial%20Intelligence%3A%20Concepts%20%26%20Techniques-E67E22?style=for-the-badge"/>
+</p>
 
-### 2nd PUC — CBSE
-**Narayana E Techno School, T.Barahalli**
-
-**Percentage:** 72%  
-**2021 – 2022**
-
-### 10th — CBSE
-**Narayana E Techno School**
-
-**Percentage:** 82%  
-**2020**
+<p>
+  <img src="https://img.shields.io/badge/Infosys-Introduction%20to%20Python-3776AB?style=for-the-badge"/>
+</p>
 
 ---
 
-# 📜 Certifications
+# 📊 GitHub Stats
 
-- 🏆 **Advanced Computer Networks** — NPTEL
-- 🤖 **Artificial Intelligence: Concepts and Techniques** — NPTEL
-- 🐍 **Introduction to Python** — Infosys
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandanasreej&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandanasreej&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Chandanasreej&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -203,7 +230,7 @@ My goal is to use GitHub consistently to:
 - 💻 Practice coding
 - 📚 Document my learning
 - 🧠 Improve problem-solving skills
-- 🔧 Explore new technologies
+- 🔍 Explore new technologies
 - 🤝 Contribute to development projects
 - 📁 Maintain clean and professional repositories
 - 🌱 Track my growth as a developer
@@ -225,7 +252,11 @@ and become a better developer. 🌱
 
 # 💡 My Development Approach
 
-**Learn → Practice → Build → Debug → Improve → Repeat**
+<p align="center">
+
+**📚 Learn** → **💻 Practice** → **🚀 Build** → **🐛 Debug** → **🔧 Improve** → **🔁 Repeat**
+
+</p>
 
 ---
 
@@ -244,14 +275,24 @@ and become a better developer. 🌱
 
 # 🤝 Let's Connect
 
-📧 **Email:** chandanasree5187@gmail.com
-
-💼 **LinkedIn:** [Chandana Sree](https://linkedin.com/in/chandanasreej)
-
-🐙 **GitHub:** [Chandanasreej](https://github.com/Chandanasreej)
+<p align="center">
+  <a href="https://linkedin.com/in/chandanasreej">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Chandanasreej">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:chandanasree5187@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 💛 Open to Software Development Opportunities
+<p align="center">
+  💛 Open to Software Development Opportunities
+</p>
 
-Always happy to connect, learn, collaborate, and grow! 🌱✨
+<p align="center">
+  Always happy to connect, learn, collaborate, and grow! 🌱✨
+</p>
